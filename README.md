@@ -11,8 +11,13 @@ var Me = {
     lastName: "Ang",
     pronouns: "she" | "her",
     hobby: ["playing piano", "drawing", "reading"],
-    skills: ["java", "c", "css", "html", "sql", "javascript"],
-    
+    skills: {
+        programmingLanguages: {
+            frontend: ["css", "html", "javascript"],
+            backEnd: ["java", "c", "python", "sql]
+        },
+        tools: ["mysql"]
+    },
     universityModules: {
         firstyear: 
            ["COMP1201 Algorithmics",
