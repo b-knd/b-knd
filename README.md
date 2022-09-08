@@ -31,6 +31,17 @@ var Me = {
     },
 };
 ```
+### Projects
+#### 2020
+- [**Distance Converter App**](https://github.com/b-knd/DistanceConverter) - A single-page iOS app that supports some common distance conversions
+
+### Repositories
+- [**competetive-programming**](https://github.com/b-knd/competitive-programming) - All the codes related to competitive programming, including contest and practice codes
+- [**cheatsheet**](https://github.com/b-knd/cheatsheet) - Personal cheatsheets and notes for programming languages and applications
+- [**misc-codes**](https://github.com/b-knd/misc-codes) - Miscellanous experimental and project codes from self learning process
+
+</br>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=b-knd&show_icons=true&count_private=true)
 
 
