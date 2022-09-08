@@ -4,7 +4,7 @@
 <!--![GitHub followers](https://img.shields.io/github/followers/b-knd?style=social)-->
 
 ### About Me
-🌦 First year comp sci undergrad at [University of Southampton, Malaysia](https://www.southampton.ac.uk/my/index.page)
+🌦 Comp sci undergrad at [University of Southampton, Malaysia](https://www.southampton.ac.uk/my/index.page)
 ```Javascript
 var Me = {
     firstName: "Jing Ru",
