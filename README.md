@@ -13,7 +13,7 @@ var Me = {
     hobby: ["playing piano", "drawing", "reading"],
     skills: {
         programmingLanguages: {
-            frontend: ["css", "html", "javascript", "swift"],
+            frontend: ["swift", "css", "html", "javascript"],
             backEnd: ["java", "c", "python", "sql]
         },
         tools: ["mysql"]
