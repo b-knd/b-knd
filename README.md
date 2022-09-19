@@ -32,9 +32,8 @@ var Me = {
 };
 ```
 ### Projects
-#### 2020
+#### 2022
 - [**Distance Converter App**](https://github.com/b-knd/DistanceConverter) - A single-page iOS app that supports common distance conversions
-- [_ongoing_ **Bookcase App**](https://github.com/b-knd/Bookcase)
 
 ### Repositories
 - [**competetive-programming**](https://github.com/b-knd/competitive-programming) - All the codes related to competitive programming, including contest and practice codes
