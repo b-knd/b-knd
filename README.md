@@ -14,11 +14,16 @@ var Me = {
     skills: {
         programmingLanguages: {
             frontend: ["swift", "css", "html", "javascript"],
-            backEnd: ["java", "c", "python", "sql]
+            backEnd: ["java", "c", "python", "haskell", "sql"]
         },
         tools: ["mysql"]
     },
     universityModules: {
+        secondyear:
+           ["COMP2208 Intelligent Systems",
+            "COMP2209 Programming III",
+            "COMP2210 Theory of Computing",
+            "COMP2213 Interaction Design"]
         firstyear: 
            ["COMP1201 Algorithmics",
             "COMP1202 Programming I",
@@ -31,9 +36,17 @@ var Me = {
     },
 };
 ```
+### Coursework
+#### 2022
+- [**Black Box Game (.hs)**](https://github.com/b-knd/Black-Box-Game)
+    
+    A Haskell program to calculate all possible interactions between rays and atoms and to solve black box game by deriving possible atoms' positions given interaction list
+
 ### Projects
 #### 2022
-- [**Distance Converter App**](https://github.com/b-knd/DistanceConverter) - A single-page iOS app that supports common distance conversions
+- [**Distance Converter App (.swift)**](https://github.com/b-knd/Distance-Converter) 
+
+    A single-page iOS app that supports common distance conversions
 
 ### Repositories
 - [**competetive-programming**](https://github.com/b-knd/competitive-programming) - All the codes related to competitive programming, including contest and practice codes
