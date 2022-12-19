@@ -40,7 +40,7 @@ var Me = {
 #### 2022
 - [**Black Box Game (.hs)**](https://github.com/b-knd/Black-Box-Game)
     
-    A Haskell program to calculate all possible interactions between rays and atoms and to solve black box game by deriving possible atoms' positions given interaction list
+    A Haskell program to solve black box game
     
 - [**Distance Converter App (.swift)**](https://github.com/b-knd/Distance-Converter) 
 
