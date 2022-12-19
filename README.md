@@ -48,7 +48,7 @@ var Me = {
 
 ### Repositories
 - [**competetive-programming**](https://github.com/b-knd/competitive-programming) - All the codes related to competitive programming, including contest and practice codes
-- [**notes**](https://github.com/b-knd/notes)
+- [**notes**](https://github.com/b-knd/notes) - Computer Science stuff
 - [**cheatsheet**](https://github.com/b-knd/cheatsheet) - Personal cheatsheets and notes for programming languages and applications
 - [**misc-codes**](https://github.com/b-knd/misc-codes) - Miscellanous experimental and project codes through self learning process
 
