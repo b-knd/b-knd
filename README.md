@@ -1,4 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/b-knd?style=social)
+![GitHub stars ](https://img.shields.io/github/stars/b-knd?style=social)
 [![Linkedin: jingru](https://img.shields.io/badge/-jingru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jingruang/)](https://www.linkedin.com/in/jingruang/)
 ![](https://komarev.com/ghpvc/?username=b-knd&color=ff69b4)
 <!--![GitHub followers](https://img.shields.io/github/followers/b-knd?style=social)-->
