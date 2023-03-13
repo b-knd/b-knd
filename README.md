@@ -48,7 +48,7 @@ var Me = {
 
 ### Repositories
 - [**competetive-programming**](https://github.com/b-knd/competitive-programming) - All the codes related to competitive programming, including contest and practice codes
-- [**leetcode-solution**](https://github.com/b-knd/leetcode-solution) - Solution to leetcode questions done during free time (Mostly daily challenges)
+- [**leetcode-solution**](https://github.com/b-knd/leetcode-solution) - Solutions to leetcode questions done during free time (Mostly daily challenges)
 - [**personal-notes**](https://github.com/b-knd/notes) - Computer Science stuff
 - [**misc-codes**](https://github.com/b-knd/misc-codes) - Miscellanous experimental and project codes through self learning process
 
