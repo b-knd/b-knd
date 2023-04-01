@@ -20,9 +20,12 @@ var Me = {
     },
     universityModules: {
         secondyear:
-           ["COMP2208 Intelligent Systems",
+           ["COMP2207 Distributed Systems and Networks",
+            "COMP2208 Intelligent Systems",
             "COMP2209 Programming III",
             "COMP2210 Theory of Computing",
+            "COMP2211 Software Engineering Group Project",
+            "COMP2212 Programming Language Concept",
             "COMP2213 Interaction Design"],
         firstyear: 
            ["COMP1201 Algorithmics",
