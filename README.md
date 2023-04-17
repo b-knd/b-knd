@@ -43,7 +43,7 @@ var Me = {
 #### 2022
 - [**Black Box Game (.hs)**](https://github.com/b-knd/Black-Box-Game)
     
-    A Haskell program to solve black box game
+    A Haskell program to solve black box game (COMP2209 Programming III Coursework)
     
 - [**Distance Converter App (.swift)**](https://github.com/b-knd/Distance-Converter) 
 
