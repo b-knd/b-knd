@@ -41,7 +41,7 @@ var Me = {
 ```
 ### Projects
 #### 2023
-- **Runway Project**
+- **Runway Project (.java)**
 
     A javafx application developed to perform runway redeclaration (COMP2211 Software Engineering Group Project)
 
