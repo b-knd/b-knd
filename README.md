@@ -16,7 +16,7 @@ var Me = {
             frontend: ["swift", "css", "html", "javascript"],
             backEnd: ["java", "c", "python", "haskell", "sql"]
         },
-        tools: ["mysql"]
+        tools: ["mysql", "event-b"]
     },
     universityModules: {
         secondyear:
