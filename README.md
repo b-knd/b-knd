@@ -19,6 +19,11 @@ var Me = {
         tools: ["mysql", "event-b"]
     },
     universityModules: {
+        thirdyear:
+           ["COMP3200 Final Year Project",
+            "COMP3204 Computer Vision",
+            "COMP3207 Cloud Application and Development",
+            "COMP3222 Machine Learning Technologies"],
         secondyear:
            ["COMP2207 Distributed Systems and Networks",
             "COMP2208 Intelligent Systems",
