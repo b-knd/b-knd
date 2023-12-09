@@ -46,7 +46,7 @@ var Me = {
 ```
 ### Projects
 #### 2023
-- [**Scientific Calculator (.js, .css, .html**](https://github.com/b-knd/Scientific-Calculator)
+- [**Scientific Calculator (.js, .css, .html)**](https://github.com/b-knd/Scientific-Calculator)
 
     A cloud application developed to perform scientific calculations (COMP3207 Cloud Application Development)
   
