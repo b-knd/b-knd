@@ -46,6 +46,10 @@ var Me = {
 ```
 ### Projects
 #### 2023
+- [**Scientific Calculator (.js, .css, .html**](https://github.com/b-knd/Scientific-Calculator)
+
+    A cloud application developed to perform scientific calculations (COMP3207 Cloud Application Development)
+  
 - [**Runway Project (.java)**](https://github.com/b-knd/Runway-Redeclaration-Project)
 
     A javafx application developed to perform runway redeclaration (COMP2211 Software Engineering Group Project)
