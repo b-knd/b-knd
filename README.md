@@ -46,6 +46,10 @@ var Me = {
 ```
 ### Projects
 #### 2023
+- [**Text Editor (.js, .css, .html, .cs)**](https://github.com/b-knd/Text-Editor)
+
+    A cloud application developed to perform basic text editor function (COMP3207 Cloud Application Development)
+  
 - [**Scientific Calculator (.js, .css, .html)**](https://github.com/b-knd/Scientific-Calculator)
 
     A cloud application developed to perform scientific calculations (COMP3207 Cloud Application Development)
