@@ -72,18 +72,14 @@ var Me = {
 - [**leetcode-solution**](https://github.com/b-knd/leetcode-solution) - Solutions to leetcode questions done during free time (Mostly daily challenges)
 
 </br>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=b-knd&show_icons=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-knd&layout=compact" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/b-knd/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=b-knd&rank_icon=percentile" />
+</a>
+<a href="https://github.com/b-knd/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-knd&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-
+</br></br>
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=b-knd&no-frame=false&no-bg=true&margin-w=15&column=8" alt="GitHub Trophies" />
 </div>
