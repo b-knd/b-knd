@@ -72,8 +72,16 @@ var Me = {
 - [**leetcode-solution**](https://github.com/b-knd/leetcode-solution) - Solutions to leetcode questions done during free time (Mostly daily challenges)
 
 </br>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=b-knd&show_icons=true&count_private=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=b-knd&show_icons=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-knd&layout=compact" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 
 <div>
