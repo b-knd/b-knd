@@ -23,7 +23,9 @@ var Me = {
            ["COMP3200 Final Year Project",
             "COMP3204 Computer Vision",
             "COMP3207 Cloud Application and Development",
-            "COMP3222 Machine Learning Technologies"],
+            "COMP3208 Social Computing",
+            "COMP3222 Machine Learning Technologies",
+            "COMP3225 Natural Language Processing"],
         secondyear:
            ["COMP2207 Distributed Systems and Networks",
             "COMP2208 Intelligent Systems",
