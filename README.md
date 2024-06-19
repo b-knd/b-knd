@@ -47,6 +47,14 @@ var Me = {
 };
 ```
 ### Projects
+#### 2024
+- [**Recommender System (.py)**](https://github.com/b-knd/Recommender-System)
+
+  A recommender system to predict item rating using cosine similarity/matrix factorisation (COMP3208 Social Computing)
+  
+- **Information Extraction and CRF Model for Name Entity Recognition (.py)**
+
+
 #### 2023
 - [**Text Editor (.js, .css, .html, .cs)**](https://github.com/b-knd/Text-Editor)
 
