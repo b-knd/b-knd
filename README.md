@@ -3,15 +3,20 @@
 ![](https://komarev.com/ghpvc/?username=b-knd&color=ff69b4)
 <!--![GitHub followers](https://img.shields.io/github/followers/b-knd?style=social)-->
 
+
+
+![](/4215160cd86906dd063387dd26937f21.gif)
+
 <h3 align="center"> <i>You are just as sane as I am.</i> </h3>
 
+### About Me
 - 🎓 **BSc. Computer Science** from **University of Southampton**
 
 - 🤪 **In love** with ☕ **Java**
 
 - 📝 Updating my 📔 **study notes** in **[study-notes](https://github.com/b-knd/study-notes)**
 
-- 🔑 **Conquering problems** on **[Leetcode](https://leetcode.com/b-knd/)** and document solutions in **[leetcode-solution](https://github.com/b-knd/leetcode-solution)**
+- 🔑 **Conquering problems** on **[Leetcode](https://leetcode.com/b-knd/)** and documenting **solutions** in **[leetcode-solution](https://github.com/b-knd/leetcode-solution)**
 
 - 📫 **Reach me** to 🥂 *chat* by **angjingru@gmail.com** or *work* on **[LinkedIn](https://www.linkedin.com/in/jingruang/)**
 
@@ -19,7 +24,6 @@
 
 </p>    
 
-### About Me
 ```Javascript
 var Me = {
     firstName: "Jing Ru",
