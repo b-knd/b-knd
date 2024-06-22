@@ -3,8 +3,31 @@
 ![](https://komarev.com/ghpvc/?username=b-knd&color=ff69b4)
 <!--![GitHub followers](https://img.shields.io/github/followers/b-knd?style=social)-->
 
+<h3 align="center"> <i>You are just as sane as I am.</i> </h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+![snake animation](https://github.com/b-knd/b-knd/blob/output/github-contribution-grid-snake2.svg)
+
+- 🎓 **BSc. Computer Science** from **University of Southampton**
+
+- 🤪 **In love** with ☕ **Java**
+
+- 📝 Updating my 📔 **study notes** in **[study-notes](https://github.com/b-knd/study-notes)**
+
+- 🔑 **Conquering problems** on **[Leetcode](https://leetcode.com/b-knd/)** and document solutions in **[leetcode-solution](https://github.com/b-knd/leetcode-solution)**
+
+- 📫 **Reach me** to 🥂 *chat* by **angjingru@gmail.com** or *work* on **[LinkedIn](https://www.linkedin.com/in/jingruang/)**
+
+<p>
+
+</p>    
+
 ### About Me
-🌦 Comp sci undergrad at the [University of Southampton, Malaysia](https://www.southampton.ac.uk/my/index.page)
 ```Javascript
 var Me = {
     firstName: "Jing Ru",
@@ -46,6 +69,7 @@ var Me = {
     },
 };
 ```
+
 ### Projects
 #### 2024
 - [**Recommender System (.py)**](https://github.com/b-knd/Recommender-System)
@@ -76,20 +100,15 @@ var Me = {
 - [**Distance Converter App (.swift)**](https://github.com/b-knd/Distance-Converter) 
 
     A single-page iOS app that supports common distance conversions
-
-### Repositories
-- [**competetive-programming**](https://github.com/b-knd/competitive-programming) - All the codes related to competitive programming, including contest and practice codes
-- [**leetcode-solution**](https://github.com/b-knd/leetcode-solution) - Solutions to leetcode questions done during free time (Mostly daily challenges)
-
 </br>
-<a href="https://github.com/b-knd/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=b-knd&rank_icon=percentile" />
-</a>
-<a href="https://github.com/b-knd/convoychat">
+
+</div>
+
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=b-knd&rank_icon=percentile&margin-w=15" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-knd&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 </br></br>
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=b-knd&no-frame=false&no-bg=true&margin-w=15&column=8" alt="GitHub Trophies" />
-</div>
+</p>
