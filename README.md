@@ -5,14 +5,6 @@
 
 <h3 align="center"> <i>You are just as sane as I am.</i> </h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-![snake animation](https://github.com/b-knd/b-knd/blob/output/github-contribution-grid-snake2.svg)
-
 - 🎓 **BSc. Computer Science** from **University of Southampton**
 
 - 🤪 **In love** with ☕ **Java**
