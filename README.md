@@ -10,6 +10,8 @@
 <h3 align="center"> <i>You are just as sane as I am.</i> </h3>
 
 ### About Me
+- 💼 Growing as a **Data Engineer**
+
 - 🎓 **BSc. Computer Science** from **University of Southampton**
 
 - 🤪 **In love** with ☕ **Java**
