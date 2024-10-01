@@ -36,8 +36,9 @@ var Me = {
         programmingLanguages: {
             frontend: ["swift", "css", "html", "javascript"],
             backEnd: ["java", "c", "python", "haskell", "sql"]
+            data: ["sql", "python"]
         },
-        tools: ["mysql", "event-b"]
+        tools: ["mysql", "event-b", "snowflake"]
     },
     universityModules: {
         thirdyear:
