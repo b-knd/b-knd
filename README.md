@@ -8,6 +8,7 @@
 ![](/4215160cd86906dd063387dd26937f21.gif)
 
 <h3 align="center"> <i>You are just as sane as I am.</i> </h3>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ### About Me
 - 💼 Growing as a **Data Engineer**
@@ -21,6 +22,8 @@
 - 🔑 **Conquering problems** on **[Leetcode](https://leetcode.com/b-knd/)** and documenting **solutions** in **[leetcode-solution](https://github.com/b-knd/leetcode-solution)**
 
 - 📫 **Reach me** to 🥂 *chat* by **angjingru@gmail.com** or *work* on **[LinkedIn](https://www.linkedin.com/in/jingruang/)**
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <p>
 
@@ -68,6 +71,7 @@ var Me = {
     },
 };
 ```
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ### Projects
 #### 2024
@@ -111,3 +115,4 @@ var Me = {
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=b-knd&no-frame=false&no-bg=true&margin-w=15&column=8" alt="GitHub Trophies" />
 </p>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
