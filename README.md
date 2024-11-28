@@ -15,7 +15,7 @@
 
 - 🎓 **BSc. Computer Science** from **University of Southampton**
 
-- 🤪 **In love** with ☕ **Java**
+- 🤪 **In love** with ☕ **Java, Python, SQL**
 
 - 📝 Updating my 📔 **study notes** in **[study-notes](https://github.com/b-knd/study-notes)**
 
